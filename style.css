@@ -1,0 +1,40 @@
+body {
+	background: url('../images/background.png');
+	
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#container{
+	background: #BDBFBC;
+	width: 400px;
+	color: white;
+	padding: 17px;
+	backface-visibility: 50px;
+
+}
+h1 {
+	font-size: 98px;
+}
+h2 {
+	font-size: 58px;
+	padding: 7px;
+	font-family: 'Open Sans', sans-serif;
+}
+h3 {
+	font-size: 65px;
+	background: #45484B;
+	border-radius: 11px;
+	padding: 9px;
+	font-family: 'RocknRoll One', sans-serif;
+}
+a {
+	color: #45484B;
+	text-decoration: none;
+}
+p {
+	font-size: 20px;
+}
